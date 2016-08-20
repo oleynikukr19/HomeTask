@@ -1,6 +1,7 @@
 /**
  * Created by Aleksandr on 13.08.2016.
  */
+
 import java.util.Scanner;
 public class seven {
     public static void main(String[] args) {
@@ -19,7 +20,7 @@ public class seven {
             x2 = ((-1) * b - Math.sqrt(d)) / 2 * a;
             System.out.printf("x1 = " + x1 + " x2 = " + x2);
         } else if (d == 0) {
-            System.out.print("Ошибка. D меньше нуля");
+            System.out.print("Дискриминант меньше нуля");
         }
 
     }

@@ -1,7 +1,8 @@
 /**
  * Created by Aleksandr on 13.08.2016.
  */
-/**
+
+
 import java.util.Scanner;
 public class fourth {
     public static void main(String[] args){
@@ -15,4 +16,5 @@ public class fourth {
 
 
 }
- */
+
+
